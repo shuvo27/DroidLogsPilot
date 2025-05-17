@@ -25,9 +25,9 @@ DroidLogPilot – A powerful ADB-based tool for real-time monitoring and analysi
   brew install android-platform-tools  # macOS
   sudo apt install android-tools-adb   # Ubuntu/Debian
 
-##🚀 Getting Started
+## 🚀 Getting Started
 1. Clone the repository or copy the script.
 2. Connect your Android device via USB and enable USB debugging.
 3. Run the script:
  ```bash
-DroidLogsPilotr.py
+ DroidLogsPilotr.py
