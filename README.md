@@ -1,4 +1,4 @@
-#📱 DroidLogsPilot (CLI Tool)
+# 📱DroidLogsPilot (CLI Tool)
 DroidLogPilot – A powerful ADB-based tool for real-time monitoring and analysis of Android mobile app logs. Designed for developers, testers, and QA engineers to debug, trace issues, and ensure app performance with ease.
 
 ## ✨ Features
@@ -24,10 +24,15 @@ DroidLogPilot – A powerful ADB-based tool for real-time monitoring and analysi
   ```bash
   brew install android-platform-tools  # macOS
   sudo apt install android-tools-adb   # Ubuntu/Debian
+- **ADB Installation Tutorial:** [Installation Tutorial](https://video.adsninja.ca/valnetinc/XDA/65f341f3e8c38-projectRssVideoFile.mp4)
 
 ## 🚀 Getting Started
 1. Clone the repository or copy the script.
 2. Connect your Android device via USB and enable USB debugging.
 3. Run the script:
- ```bash
- DroidLogsPilotr.py
+   ```bash
+   python DroidLogsPilotr.py
+
+## 📌 Notes
+- This script uses adb logcat, so only logs available at runtime will be shown.
+- Ensure your device is authorized and ADB is working (adb devices should list it).
