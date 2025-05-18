@@ -31,7 +31,7 @@ DroidLogPilot – A powerful ADB-based tool for real-time monitoring and analysi
 2. Connect your Android device via USB and enable USB debugging.
 3. Run the script:
    ```bash
-   python DroidLogsPilotr.py
+   python DroidLogsPilot.py
 
 ## 📌 Notes
 - This script uses adb logcat, so only logs available at runtime will be shown.
