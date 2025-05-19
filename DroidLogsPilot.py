@@ -1,6 +1,10 @@
 import subprocess
 import sys
 
+# === Metadata ===
+__author__ = "Shuvo Karmakar"
+__version__ = "1.0.0"
+
 # === Utility Functions ===
 
 def run_adb_logcat(filter_tag=None, filter_level=None, export_to_file=False, filename="adb_logs.txt"):
@@ -123,6 +127,16 @@ def get_user_choice(prompt, options):
 # === Main Program ===
 
 if __name__ == "__main__":
+    # === Boot Splash ===
+    GREEN = "\033[92m"
+    RESET = "\033[0m"
+
+    print("=" * 40)
+    print(f"{GREEN}🚀 DroidLogsPilot🚀{RESET}")
+    print(f"{GREEN}Author : Shuvo Karmakar{RESET}")
+    print(f"{GREEN}Version: {__version__}{RESET}")
+    print("=" * 40)
+
     # Default values
     filter_tag = None
     filter_level = None
