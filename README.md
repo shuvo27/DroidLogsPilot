@@ -25,7 +25,7 @@ DroidLogPilot – A powerful ADB-based tool for real-time monitoring and analysi
   brew install android-platform-tools  # macOS
   sudo apt install android-tools-adb   # Ubuntu/Debian
   ```
-- Detailed steps for ADB installation and configuration can be found in the [ADB Installation](adbInstallation.md) documentation.
+- Detailed steps for ADB installation and configuration can be found in the [ADB Installation](ADBINSTALLATION.md) documentation.
   
 ## 🚀 Getting Started
 1. Clone the repository or copy the script.
