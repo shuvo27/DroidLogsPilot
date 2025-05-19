@@ -50,4 +50,5 @@ The MIT License (MIT). See the [LICENSE](LICENSE.md) file for complete informati
 Feel free to reach out for collaboration, feedback, or questions!
 
 ---
+![DroidLogsPilot](https://github.com/user-attachments/assets/25bba156-db1a-4a92-8f5e-3934a5d32714)
 
