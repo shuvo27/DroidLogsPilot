@@ -33,6 +33,7 @@ DroidLogPilot – A powerful ADB-based tool for real-time monitoring and analysi
 3. Run the script:
    ```bash
    python DroidLogsPilot.py
+https://github.com/user-attachments/assets/1455fef5-c981-4408-8220-8352b94ceeac
 
 ## 📌 Notes
 - This script uses adb logcat, so only logs available at runtime will be shown.
@@ -48,7 +49,4 @@ The MIT License (MIT). See the [LICENSE](LICENSE.md) file for complete informati
 📧 Email: [shuvokarmakar277@gmail.com](mailto:shuvokarmakar277@gmail.com)  
 
 Feel free to reach out for collaboration, feedback, or questions!
-
----
-![DroidLogsPilot](https://github.com/user-attachments/assets/25bba156-db1a-4a92-8f5e-3934a5d32714)
 
